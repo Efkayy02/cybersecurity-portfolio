@@ -1,10 +1,10 @@
 # Cybersecurity Portfolio – Ishaq Umar Farouk
 
-Welcome to my cybersecurity portfolio. This repository contains hands-on labs and practical exercises demonstrating my skills in network security, vulnerability assessment, reconnaissance, and penetration testing.
+Welcome to my cybersecurity portfolio. This repository contains handson labs and practical exercises demonstrating my skills in network security, vulnerability assessment, reconnaissance, and penetration testing
 
-## About Me
+About Me:
 
-Aspiring Cybersecurity Analyst based in Abuja, Nigeria with practical experience using tools such as:
+Aspiring Cybersecurity Analyst based in Kaduna, Nigeria with practical experience using tools such as:
 
 - Nmap
 - Wireshark
@@ -13,13 +13,10 @@ Aspiring Cybersecurity Analyst based in Abuja, Nigeria with practical experience
 - Kali Linux
 - Cisco Packet Tracer
 
-I am passionate about identifying vulnerabilities, analyzing network traffic, and strengthening digital security systems.
+I am passionate about identifying vulnerabilities, analyzing network traffic, and strengthening digital security systems
 
----
-
-## Labs Included
-
-### 1. Network Reconnaissance with Nmap
+ Labs Included
+ 1. Network Reconnaissance with Nmap
 Performed SYN scanning to discover open ports and exposed services.
 
 Tools used:
@@ -31,9 +28,7 @@ Skills demonstrated:
 - Service identification
 - Attack surface discovery
 
----
-
-### 2. Network Topology Simulation
+ 2. Network Topology Simulation
 Designed an enterprise-style network using Cisco Packet Tracer including routers, switches, and servers.
 
 Skills demonstrated:
@@ -41,9 +36,7 @@ Skills demonstrated:
 - Infrastructure design
 - Segmentation concepts
 
----
-
-### 3. Web Directory Enumeration
+ 3. Web Directory Enumeration
 Used FFUF to discover hidden directories on a web server using the DirBuster wordlist.
 
 Skills demonstrated:
@@ -51,9 +44,7 @@ Skills demonstrated:
 - Directory discovery
 - Web application testing
 
----
-
-### 4. Packet Analysis with Wireshark
+4. Packet Analysis with Wireshark
 Captured and analyzed network packets to understand traffic patterns and identify anomalies.
 
 Skills demonstrated:
@@ -61,9 +52,7 @@ Skills demonstrated:
 - Protocol analysis
 - Network monitoring
 
----
-
-### 5. Exploitation Practice using Metasploit
+ 5. Exploitation Practice using Metasploit
 Explored the Metasploit framework to understand vulnerability exploitation techniques in a controlled environment.
 
 Skills demonstrated:
@@ -71,9 +60,7 @@ Skills demonstrated:
 - Payload usage
 - Post-exploitation concepts
 
----
-
-## Tools & Technologies
+ Tools & Technologies
 
 - Kali Linux
 - Nmap
@@ -82,10 +69,8 @@ Skills demonstrated:
 - FFUF
 - Cisco Packet Tracer
 
----
 
-## Contact
+Contact
 
-Location: Abuja, Nigeria  
-Email: your-email@example.com  
-LinkedIn: https://linkedin.com/in/yourprofile
+Location: Kaduna, Nigeria  
+Email: omarishaq2696@gmail.com  
